@@ -11,19 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Kofi
-## Header 2
-### Header 3
+# My Name's Meaning 
+## My Heritage
+### More About ME
 
-- Bulleted
-- List
+- My First and Middle names are part of a unique tradition in Ghana to name the child by the day of the week I was born. We typically have two sets of names to choose from depending on the day and the gender of the newborn baby. As a Friday-born male I was assigned with the name Kofi. Hypothetically, say my sister was born on a Friday as well, she would be named Afua or Afua. 
+- My parents are both directly from Ghana, they lived there for the early half of their lives before moving to California. My dad is from the Fanti tribe while my mom comes from the Ashanti tribe, one of the largest and most well-known Ghanaian tribes in the nation. 
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](link) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
