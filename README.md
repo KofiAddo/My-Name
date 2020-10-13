@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # My Name's Meaning 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](https://www.instagram.com/_kofiaddo/?hl=en) and ![Image](https://food.jumia.com.gh/blog/wp-content/uploads/2017/03/ashanti-rich-660x400.jpg)
 ![Image](https://netstorage-yen.akamaized.net/images/3o3bpd10qts21b2a1g.jpg?imwidth=900)
-```
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
