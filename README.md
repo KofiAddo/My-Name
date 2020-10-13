@@ -7,7 +7,7 @@
 - My parents are both directly from **Ghana**, they lived there for the early half of their lives before moving to California. My dad is from the Fanti tribe while my mom comes from the Ashanti tribe, one of the largest and _most well-known Ghanaian tribes in the nation_. 
 
 
-[Image](https://food.jumia.com.gh/blog/wp-content/uploads/2017/03/ashanti-rich-660x400.jpg)
+![Image](https://food.jumia.com.gh/blog/wp-content/uploads/2017/03/ashanti-rich-660x400.jpg)
 ![Image](https://netstorage-yen.akamaized.net/images/3o3bpd10qts21b2a1g.jpg?imwidth=900)
 
 
