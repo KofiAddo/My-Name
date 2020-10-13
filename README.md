@@ -11,7 +11,7 @@
 ![Image](https://netstorage-yen.akamaized.net/images/3o3bpd10qts21b2a1g.jpg?imwidth=900)
 
 
-For more information see my social page at [Link](https://www.instagram.com/_kofiaddo/?hl=en)
+For more information see my social media page at [Link](https://www.instagram.com/_kofiaddo/?hl=en)
 
 
 ### Jekyll Themes
